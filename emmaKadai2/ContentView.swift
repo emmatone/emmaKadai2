@@ -3,7 +3,7 @@
 //  emmaKadai2
 //　課題2　足し算・引き算・掛け算・割り算アプリ
 //
-//  Created by Hitomi Ishiodori on 2022/12/18.
+//  Created by Emma on 2022/12/18.
 //
 
 import SwiftUI
