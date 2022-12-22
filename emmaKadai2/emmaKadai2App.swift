@@ -2,7 +2,7 @@
 //  emmaKadai2App.swift
 //  emmaKadai2
 //
-//  Created by Hitomi Ishiodori on 2022/12/18.
+//  Created by Emma on 2022/12/18.
 //
 
 import SwiftUI
